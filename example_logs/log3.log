@@ -1,0 +1,15 @@
+---------- 11-20 20:01:54 -0600: Logging Started ----------
+
+11-20 20:56:16.289: log3 message 1
+11-20 20:56:24.060: log3 message 2
+11-20 22:43:21.017: log3 message 3
+11-20 22:43:29.044: log3 message 4
+11-20 23:05:42.433: log3 message 5
+11-20 23:05:50.604: log3 message 6
+11-20 23:09:58.463: log3 message 7
+11-20 23:10:06.107: log3 message 8
+11-20 23:38:05.023: log3 message 9
+11-20 23:38:12.667: log3 message 10
+11-20 23:38:36.142: log3 message 11
+11-20 23:38:44.169: log3 message 12
+11-21 00:26:17.893: log3 message 13
